@@ -1,0 +1,20 @@
+th,td {
+    width: 25px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    
+}
+
+td {
+    text-align: right !important;
+    padding-right: 3px !important;
+}
+
+th {
+    background-color: lightgray;
+    text-align: center !important;
+}
+
+.weekend {
+    background-color: chartreuse;
+}
